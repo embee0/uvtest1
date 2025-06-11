@@ -1,0 +1,1 @@
+Dieses Repository enthält ein paar kleine Experimente mit `uv`.
